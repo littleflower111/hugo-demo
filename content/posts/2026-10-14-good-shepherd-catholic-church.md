@@ -6,6 +6,8 @@ tags:
   - test
 categories:
   - housing
-cover: /img/babonnea.png
+cover:
+  image: /img/example.jpg
+  alt: ""
 ---
 # This is a test.
