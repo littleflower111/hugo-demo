@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://babonneau.netlify.app/'
 locale = 'en-us'
 title = 'St. Lucia blog 2026'
 theme = 'PaperMod'
